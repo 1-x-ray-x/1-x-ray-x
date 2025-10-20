@@ -68,20 +68,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/1-x-ray-x/1-x-ray-x/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1-x-ray-x/1-x-ray-x/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1-x-ray-x/1-x-ray-x/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/1-x-ray-x/1-x-ray-x/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="left">
 </div>
 
