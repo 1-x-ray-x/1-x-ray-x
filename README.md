@@ -1,5 +1,13 @@
 <h2 align="left">Hi 👋, Im Rayaan, a student developer</h2>
 
+<h3 align="left">- 🔭 I’m currently working on [RoboQuest](mrroboquest.vercel.app)
+
+- 🌱 I’m currently learning **CS50 on edX**
+
+- 💬 Ask me about **HTML, CSS**
+
+- 📫 How to reach me **rayaanm5409@gmail.com**</h3>
+
 ###
 
 <div align="center">
