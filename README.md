@@ -1,10 +1,10 @@
 <h2 align="left">Hi 👋, Im Rayaan, a student developer</h2>
 
-<h4 align="left">- 🔭 I’m currently working on RoboQuest (mrroboquest.vercel.app)
+<h4 align="left">- 🔭 I’m currently working on PyGame Projects
 
 - 🌱 I’m currently learning **CS50 on edX**
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS, Python**
 
 - 📫 How to reach me **rayaanm5409@gmail.com**</h4>
 
